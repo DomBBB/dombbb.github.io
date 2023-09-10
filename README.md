@@ -6,10 +6,10 @@
 
 _[Online versions (external link](https://mybinder.org/v2/gh/DomBBB/cshs24/HEAD) > Notebooks > Repetition_
 
-- Introduction to Python: [HTML](/Repetition/GMI 2023 - Introduction to Python.html)
+- Introduction to Python: [HTML](https://github.com/DomBBB/cshs24/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.htm)
 - Introduction to OOP
-  - classes
-  - @ property
+  - classes: [HTML](https://github.com/DomBBB/cshs24/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.html)
+  - @ property: [HTML](https://github.com/DomBBB/cshs24/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.htm)
 - Introduction to DataScience
 
 ## Weekly Content (Slides, Exercises & Solutions)
