@@ -6,7 +6,7 @@
 
 _[Online versions (external link](https://mybinder.org/v2/gh/DomBBB/cshs24/HEAD) > Notebooks > Repetition_
 
-- Introduction to Python: /Repetition/GMI 2023 - Introduction to Python.html
+- Introduction to Python: [HTML](/Repetition/GMI 2023 - Introduction to Python.html)
 - Introduction to OOP
   - classes
   - @ property
