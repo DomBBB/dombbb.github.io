@@ -14,6 +14,6 @@ _[Online versions (external link](https://mybinder.org/v2/gh/DomBBB/cshs24/HEAD)
 
 ## Weekly Content (Slides, Exercises & Solutions)
 
-Week 0: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/DomBBB/cshs24/blob/main/Presentation/Presentation_W0.pptx)
+Week 0: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/DomBBB/cshs24/Presentation/Presentation_W0.pptx)
 
 Week 1: TBA
