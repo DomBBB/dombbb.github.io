@@ -1,3 +1,8 @@
+---
+layout: default
+title: Fundamentals and Methods of Computer Science for Business Studies - Exercises, Group 2
+---
+
 # Exercise Group Content Mirror
 
 ## Programming Resources
