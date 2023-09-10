@@ -7,7 +7,7 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Programming Resources
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DomBBB/dombbb.github.io/HEAD) > Notebooks > Repetition_
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DomBBB/dombbb.github.io/HEAD) _> Notebooks > Repetition_
 
 - Introduction to Python: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.htm)
 - Introduction to OOP
