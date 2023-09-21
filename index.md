@@ -5,6 +5,13 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 # Exercise Group Content Mirror
 
+## Classroom
+
+For 27.10.23 and 08.12.23 we will find a suitable solution (so these rooms might change and I will post this here):
+
+![grafik-1](https://github.com/DomBBB/dombbb.github.io/assets/48671300/fb2b78d1-226f-4b53-b22b-f016ae54cd0f)
+
+
 ## Programming Resources
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DomBBB/dombbb.github.io/HEAD) _> Notebooks > Repetition_
