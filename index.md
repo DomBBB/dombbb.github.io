@@ -26,4 +26,4 @@ For 27.10.23 and 08.12.23 we will find a suitable solution (so these rooms might
 
 Week 0: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W0.pptx)
 
-Week 1: TBA
+Week 1: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W1.pptx), Exercise 1 & Solution 1 (_Binder > Notebooks > Weekly ..._)
