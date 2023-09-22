@@ -24,6 +24,8 @@ For 27.10.23 and 08.12.23 we will find a suitable solution (so these rooms might
 
 ## Weekly Content (Slides, Exercises & Solutions)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DomBBB/dombbb.github.io/HEAD) _> Notebooks > Weekly ..._
+
 Week 0: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W0.pptx)
 
-Week 1: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W1.pptx), Exercise 1 & Solution 1 (_Binder > Notebooks > Weekly ..._)
+Week 1: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W1.pptx), [Exercise 1](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week1.ipynb) & [Solution 1](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week1_Solution.ipynb)
