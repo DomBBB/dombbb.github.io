@@ -31,3 +31,5 @@ Week 0: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://d
 Week 1: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W1.pptx), [Exercise 1](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week1.ipynb) & [Solution 1](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week1_Solution.ipynb)
 
 Week 2: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W2.pptx), [Exercise 2](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week2.ipynb) & [Solution 2](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week2_Solution.ipynb)
+
+Week 2: Powerpoint, [Exercise 3](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week3.ipynb) & [Solution 3](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week3_Solution.ipynb)
