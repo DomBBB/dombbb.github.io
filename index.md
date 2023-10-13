@@ -17,9 +17,7 @@ For 27.10.23 and 08.12.23 we will find a suitable solution (so these rooms might
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DomBBB/dombbb.github.io/HEAD) _> Notebooks > Repetition_
 
 - Introduction to Python: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.htm)
-- Introduction to OOP (not yet relevant)
-  - classes: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.html)
-  - @ property: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20%40property.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20%40property.html)
+- Introduction to OOP (not yet relevant): [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.html)
 - Introduction to DataScience (not yet relevant): [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Data%20Science.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Data%20Science.html)
 
 ## Weekly Content (Slides, Exercises & Solutions)
