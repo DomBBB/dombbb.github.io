@@ -7,8 +7,6 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 
 ## Classroom
 
-For 27.10.23 and 08.12.23 we will find a suitable solution (so these rooms might change and I will post this here):
-
 ![grafik-1](https://github.com/DomBBB/dombbb.github.io/assets/48671300/fb2b78d1-226f-4b53-b22b-f016ae54cd0f)
 
 
@@ -35,3 +33,5 @@ Week 3: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://d
 Week 4: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W4.pptx), [Exercise 4a](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week4a.ipynb) & [Solution 4a](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week4a_Solution.ipynb), [Exercise 4b](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week4b.ipynb) & [Solution 4b](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week4b_Solution.ipynb)
 
 Week 5: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W5.pptx), [Exercise 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week5.ipynb) & [Solution 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week5_Solution.ipynb)
+
+Week 6: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W6.pptx), [Exercise 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week6.ipynb) & [Solution 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week6_Solution.ipynb)
