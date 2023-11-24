@@ -15,8 +15,8 @@ title: Fundamentals and Methods of Computer Science for Business Studies - Exerc
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DomBBB/dombbb.github.io/HEAD) _> Notebooks > Repetition_
 
 - Introduction to Python: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Introduction%20to%20Python.htm)
-- Introduction to OOP (not yet relevant): [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.html)
-- Introduction to DataScience (not yet relevant): [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Data%20Science.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Data%20Science.html)
+- Introduction to OOP: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20oop.html)
+- Introduction to DataScience: [Jupyter Notebook](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Data%20Science.ipynb) & [HTML](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Repetition/GMI%202023%20-%20Data%20Science.html)
 
 ## Weekly Content (Slides, Exercises & Solutions)
 
@@ -34,6 +34,8 @@ Week 4: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://d
 
 Week 5: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W5.pptx), [Exercise 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week5.ipynb) & [Solution 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week5_Solution.ipynb)
 
-Week 6: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W6.pptx), [Exercise 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week6.ipynb) & [Solution 5](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week6_Solution.ipynb)
+Week 6: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W6.pptx), [Exercise 6](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week6.ipynb) & [Solution 6](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week6_Solution.ipynb)
 
 Week 7: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W7.pptx)
+
+Week 8: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W8.pptx), [Exercise 8](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week8.ipynb) & [Solution 8](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week8_Solution.ipynb)
