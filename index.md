@@ -43,3 +43,5 @@ Week 8: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://d
 Week 9: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W9.pptx)
 
 Week 10: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W10.pptx), [Exercise 10](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Exercises/Week10.ipynb) & [Solution 10](https://github.com/DomBBB/dombbb.github.io/blob/main/Notebooks/Weekly%20Solutions/Week10_Solution.ipynb)
+
+Week 11: [Powerpoint](https://view.officeapps.live.com/op/view.aspx?src=https://dombbb.github.io/Presentation/Presentation_W11.pptx)
